@@ -26,3 +26,9 @@ only performs efficiently in terms of speed but also maintains robustness. The c
 YOLOv9 model with implementation of GA takes an average detection time of
 1-2 seconds, demonstrating its suitability for real-time factory floor inspection, where
 rapid defect detection is critical.
+
+
+
+
+![image](https://github.com/user-attachments/assets/5b440b40-50b4-47f3-8fc4-268b43e0c62f)
+

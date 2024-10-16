@@ -5,6 +5,8 @@ meet the high quality standards of electrical goods. Manufacturing defects, such
 missing holes or short circuits, compromise PCB functionality and are often caused by
 mishandling or technical problems that could possibly happen during the production
 phase.
+
+
 This study investigates techniques for automating the visual inspection of Printed
 Circuit Boards (PCBs) using Computer Vision (CV) methods. Various approaches were
 studied, including both Convolutional Neural Networks (CNNs) and YOLO architectures.
@@ -16,6 +18,8 @@ and improve model accuracy, the RoboFlow tool was utilized for sophisticated ima
 pre-processing and augmentation techniques. Additionally, a Genetic Algorithm was
 implemented to optimize the model’s performance, refining its ability to detect even
 subtle defects in PCBs.
+
+
 This research explores how genetic algorithms (GA) can we employed to improve
 model performance while minimizing detection time. This ensures that the model not
 only performs efficiently in terms of speed but also maintains robustness. The customtrained
